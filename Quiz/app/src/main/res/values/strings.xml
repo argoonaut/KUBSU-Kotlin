@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="BTNNo">НЕТ</string>
+    <string name="BTNYes">ДА</string>
+
+    <string name="Question1">Штаны с принтом микки мауса красивые?</string>
+    <string name="Question2">Блинчики вкусные?</string>
+    <string name="Question3">Молоко белое?</string>
+    <string name="Question4">Небо синее?</string>
+    <string name="Question5">Крокодил зелёный?</string>
+    <string name="Question6">Глупые ли это были вопросы?</string>
+    <string name="incorrect_toast">Ошибка</string>
+    <string name="correct_toast">Правильно</string>
+</resources>
